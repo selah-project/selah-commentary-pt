@@ -17,3 +17,10 @@ Or HaChaim · Rabbeinu Bahya · Ramban · Rashbam · Sforno.
 
 Parte do [projeto Selah](https://selahproject.org).
 Licença: [CC BY-SA 4.0](LICENSE.md).
+
+## Apoie Selah
+
+Estas versões permanecem abertas sob a licença CC BY-SA 4.0. Se elas servem a
+você e você deseja ajudar a sustentar sua tradução, correção, publicação e
+trabalho contínuo, visite
+[selahproject.com/support](https://selahproject.com/support).
