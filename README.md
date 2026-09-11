@@ -15,7 +15,7 @@ escreveu.
 Vozes: Baal HaTurim · Chizkuni · Daat Zkenim · Ibn Ezra · Kli Yakar ·
 Or HaChaim · Rabbeinu Bahya · Ramban · Rashbam · Sforno.
 
-Parte do [projeto Selah](https://selahproject.org).
+Parte do [projeto Selah](https://selahproject.com).
 Licença: [CC BY-SA 4.0](LICENSE.md).
 
 ## Apoie Selah
