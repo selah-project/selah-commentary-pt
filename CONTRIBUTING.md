@@ -42,3 +42,8 @@ concorda que o material aceito seja distribuído sob
 correções. A manutenção compara a proposta com a fonte hebraica, a voz do
 comentarista e a evidência. Ela pode aceitar, revisar, aguardar mais evidências
 ou recusar explicando a razão. Seja preciso, paciente e respeitoso.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
